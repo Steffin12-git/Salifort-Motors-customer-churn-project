@@ -83,17 +83,8 @@ These insights enable HR and leadership to:
 - Logistic Regression  
 - Decision Tree  
 - Random Forest  
-- XGBoost  
-
-**Performance Summary:**
-
-| Metric | Random Forest | Decision Tree | Logistic Regression |
-|---------|----------------|----------------|---------------------|
-| Accuracy | 0.96 | 0.91 | 0.88 |
-| AUC | 0.93 | 0.89 | 0.85 |
-| Precision | 0.87 | 0.81 | 0.78 |
-| Recall | 0.89 | 0.83 | 0.80 |
-| F1-Score | 0.88 | 0.82 | 0.79 |
+- XGBoost
+- 
 
 ### Feature Importance (Random Forest)
 ![Feature Importance](Images/Random%20forest%20feature%20importance.png)
